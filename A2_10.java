@@ -1,7 +1,7 @@
 public class A2_10 {
     public static void main(String[] args) {
     int a=824,temp=0,var,b=1;
-    int s;
+
     var=a%10;
     int c=a/10;
     int copy=c;
